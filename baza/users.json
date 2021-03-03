@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "5ea9cc71f0b85b23f8746e74"
+  },
+  "nick": "lechu",
+  "password": "1234",
+  "nrkonta": "",
+  "baza": "lechu_5ea9cc71f0b85b23f8746e74",
+  "language": "pl",
+  "prawa": 111,
+  "plan": "Standard",
+  "email": "bambuki123@bramowo.pl",
+  "firstname": "Janusz",
+  "lastname": "Gaworek",
+  "dataurodzenia": "25-07-1967",
+  "mobile": "786 787 087",
+  "nrpacjenta": "234124767325",
+  "doctor": "Paweł Kowalski",
+  "doctoremail": "pkowalski@gmail.com",
+  "adres": "u. Alicji 45, 45-12 Kiszkowo",
+  "aktywny": true,
+  "wplynelo": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "ip": "::"
+}]

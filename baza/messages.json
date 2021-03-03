@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "5eb035c6bedbde6d8ab193d5"
+  },
+  "typ": "1",
+  "status": "0",
+  "target": "",
+  "title_en": "Welcome everyone,",
+  "title_pl": "Witamy wszystkich",
+  "body_en": "from Saturday, technical work will continue in the system, access to the service may be difficult between 23 and 03 CET, we apologize.",
+  "body_pl": "od soboty będą trwały prace serwisowe, w godzinach 23 - 03 dostęp do serwisu może być utrudniony, przepraszamy.",
+  "autor": "HT team",
+  "delivered": "",
+  "ip": ""
+},{
+  "_id": {
+    "$oid": "5eb152493fde0627c0817d11"
+  },
+  "typ": "2",
+  "status": "0",
+  "target": "5ea9cc71f0b85b23f8746e74",
+  "title_en": "Hello lechu,",
+  "title_pl": "Cześc lechu",
+  "body_en": "this is your first entry into the HT system, follow the instructions received and system indications.",
+  "body_pl": "to Twoje pierwsze wejście do systemu, postępuj zgodnie z otrzymanymi instrukcjami i wskazówkami systemowymi.",
+  "autor": "HT team",
+  "delivered": "",
+  "ip": ""
+}]

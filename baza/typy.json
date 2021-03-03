@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "5ca4bd408071e41d60f49320"
+  },
+  "badanie": "Temperatura ciała",
+  "data": "2020-01-01 12:00:00",
+  "wartosc": {
+    "wynik": 0,
+    "jednostka": "St. Celcjusza",
+    "referencja": 36.6,
+    "min": 20,
+    "max": 44
+  }
+},{
+  "_id": {
+    "$oid": "5ca4bdc18071e41d60f49322"
+  },
+  "badanie": "Natlenienie krwi",
+  "data": "2020-01-01 12:00:00",
+  "wartosc": {
+    "wynik": 0,
+    "jednostka": "%",
+    "referencja": null,
+    "min": 94,
+    "max": 99
+  }
+},{
+  "_id": {
+    "$oid": "5ca4bdde8071e41d60f49323"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-01 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ca4be018071e41d60f49324"
+  },
+  "badanie": "Tętno",
+  "data": "2020-01-01 12:00:00",
+  "wartosc": {
+    "wynik": 0,
+    "jednostka": "BPM",
+    "min": 20,
+    "max": 250
+  }
+},{
+  "_id": {
+    "$oid": "5ca4beb28071e41d60f49325"
+  },
+  "badanie": "Ciśnienie tętnicze",
+  "data": "2020-01-01 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea4c5b21b2bae26305726ee"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-01-01 12:00:00"
+}]

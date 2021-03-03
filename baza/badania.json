@@ -1,0 +1,1065 @@
+[{
+  "_id": {
+    "$oid": "5ea1edb11cf1843db8003eb2"
+  },
+  "badanie": "Ciśnienie tętnicze",
+  "data": "2020-04-01 21:34:00",
+  "SYS": {
+    "wynik": 80,
+    "jednostka": "mmHg",
+    "referencja": 80,
+    "min": 50,
+    "max": 150
+  },
+  "DIA": {
+    "wynik": 135,
+    "jednostka": "mmHg",
+    "referencja": 120,
+    "min": 60,
+    "max": 220
+  }
+},{
+  "_id": {
+    "$oid": "5ea2d3071cf1843b34002202"
+  },
+  "badanie": "Ciśnienie tętnicze",
+  "data": "2020-04-02 13:52:04",
+  "SYS": {
+    "wynik": 134,
+    "jednostka": "mmHg",
+    "referencja": 80,
+    "min": 50,
+    "max": 150
+  },
+  "DIA": {
+    "wynik": 94,
+    "jednostka": "mmHg",
+    "referencja": 120,
+    "min": 60,
+    "max": 220
+  }
+},{
+  "_id": {
+    "$oid": "5ea4c78b1cf1843e50003ff2"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-25 07:32:52"
+},{
+  "_id": {
+    "$oid": "5ea4c7ca1cf1843e50003ff3"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-22 08:30:35"
+},{
+  "_id": {
+    "$oid": "5ea4c7f31cf1843e50003ff4"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-20 09:40:17"
+},{
+  "_id": {
+    "$oid": "5ea4c8171cf1843e50003ff5"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-18 08:16:58"
+},{
+  "_id": {
+    "$oid": "5ea4c8461cf1843e50003ff6"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-17 08:21:41"
+},{
+  "_id": {
+    "$oid": "5ea4c87b1cf1843e50003ff7"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-16 07:52:35"
+},{
+  "_id": {
+    "$oid": "5ea4c8a41cf1843e50003ff8"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-15 07:33:20"
+},{
+  "_id": {
+    "$oid": "5ea4c8cc1cf1843e50003ff9"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-14 07:18:05"
+},{
+  "_id": {
+    "$oid": "5ea4c8eb1cf1843e50003ffa"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-13 08:05:36"
+},{
+  "_id": {
+    "$oid": "5ea4c9111cf1843e50003ffb"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-12 06:57:07"
+},{
+  "_id": {
+    "$oid": "5ea4cbb21cf1843e50003ffc"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-08 09:50:20"
+},{
+  "_id": {
+    "$oid": "5ea4cbd31cf1843e50003ffd"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-07 06:46:57"
+},{
+  "_id": {
+    "$oid": "5ea4cc011cf1843e50003ffe"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-06 07:41:36"
+},{
+  "_id": {
+    "$oid": "5ea4cc2b1cf1843e50003fff"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-03 12:43:17"
+},{
+  "_id": {
+    "$oid": "5ea4cc4a1cf1843e50004000"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-02 07:37:58"
+},{
+  "_id": {
+    "$oid": "5ea4cc6e1cf1843e50004001"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-01 07:58:30"
+},{
+  "_id": {
+    "$oid": "5ea558051cf18431c4005772"
+  },
+  "badanie": "Ciśnienie tętnicze",
+  "data": "2020-04-26 11:44:10",
+  "SYS": {
+    "wynik": 127,
+    "jednostka": "mmHg",
+    "referencja": 80,
+    "min": 50,
+    "max": 150
+  },
+  "DIA": {
+    "wynik": 234,
+    "jednostka": "mmHg",
+    "referencja": 120,
+    "min": 60,
+    "max": 220
+  }
+},{
+  "_id": {
+    "$oid": "5ea6ae621cf1840450000982"
+  },
+  "badanie": "Ciśnienie tętnicze",
+  "data": "2020-04-30",
+  "SYS": {
+    "wynik": 0,
+    "jednostka": "mmHg",
+    "referencja": 80,
+    "min": 50,
+    "max": 150
+  },
+  "DIA": {
+    "wynik": 0,
+    "jednostka": "mmHg",
+    "referencja": 120,
+    "min": 60,
+    "max": 220
+  }
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b0"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-01 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b1"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-02 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b2"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-03 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b3"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-04 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b4"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-05 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b5"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-06 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b6"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-07 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b7"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-08 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b8"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-09 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079b9"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-10 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079ba"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-11 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079bb"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-12 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079bc"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-13 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079bd"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-14 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079be"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-15 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079bf"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-16 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c0"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-17 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c1"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-18 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c2"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-19 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c3"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-20 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c4"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-21 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c5"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-22 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c6"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-23 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c7"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-24 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c8"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-25 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079c9"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-26 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079ca"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-27 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079cb"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-28 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079cc"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-29 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079cd"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-30 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079ce"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-01-31 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079cf"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-01 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d0"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-02 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d1"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-03 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d2"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-04 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d3"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-05 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d4"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-06 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d5"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-07 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d6"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-08 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d7"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-09 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d8"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-10 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079d9"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-11 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079da"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-12 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079db"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-13 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079dc"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-14 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079dd"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-15 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079de"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-16 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079df"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-17 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e0"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-18 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e1"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-19 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e2"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-20 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e3"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-21 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e4"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-22 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e5"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-23 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e6"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-24 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e7"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-25 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e8"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-26 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079e9"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-27 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079ea"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-28 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079eb"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-02-29 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079ec"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-01 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079ed"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-02 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079ee"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-03 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079ef"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-04 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f0"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-05 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f1"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-06 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f2"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-07 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f3"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-08 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f4"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-09 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f5"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-10 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f6"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-11 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f7"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-12 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f8"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-13 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079f9"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-14 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079fa"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-15 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079fb"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-16 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079fc"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-17 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079fd"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-18 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079fe"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-19 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf18436940079ff"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-20 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a00"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-21 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a01"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-22 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a02"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-23 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a03"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-24 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a04"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-25 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a05"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-26 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a06"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-27 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a07"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-28 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a08"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-29 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a09"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-30 12:00:00"
+},{
+  "_id": {
+    "$oid": "5ea7573c1cf1843694007a0a"
+  },
+  "badanie": "Pogoda",
+  "data": "2020-03-31 12:00:00"
+},{
+  "_id": {
+    "$oid": "5eab24e71cf1844700000ac2"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-04-30 07:52:00"
+},{
+  "_id": {
+    "$oid": "5eac9cf21cf18403500004d2"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-05-01 08:22:00"
+},{
+  "_id": {
+    "$oid": "5eac9de71cf18403500004d3"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-31 08:26:00"
+},{
+  "_id": {
+    "$oid": "5eac9e1c1cf18403500004d4"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-30 08:06:00"
+},{
+  "_id": {
+    "$oid": "5eac9e5f1cf18403500004d5"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-29 10:34:00"
+},{
+  "_id": {
+    "$oid": "5eac9e9b1cf18403500004d6"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-28 07:54:00"
+},{
+  "_id": {
+    "$oid": "5eac9ebd1cf18403500004d7"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-27 08:32:00"
+},{
+  "_id": {
+    "$oid": "5eac9ee41cf18403500004d8"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-26 08:21:00"
+},{
+  "_id": {
+    "$oid": "5eac9f0e1cf18403500004d9"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-25 09:15:00"
+},{
+  "_id": {
+    "$oid": "5eaca17b1cf18403500004da"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-24 09:53:00"
+},{
+  "_id": {
+    "$oid": "5eaca19f1cf18403500004db"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-23 07:23:00"
+},{
+  "_id": {
+    "$oid": "5eaca1c81cf18403500004dc"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-20 09:49:00"
+},{
+  "_id": {
+    "$oid": "5eaca1fd1cf18403500004dd"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-19 08:58:00"
+},{
+  "_id": {
+    "$oid": "5eaca2121cf18403500004de"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-18 00:26:00"
+},{
+  "_id": {
+    "$oid": "5eaca2371cf18403500004df"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-17 10:06:00"
+},{
+  "_id": {
+    "$oid": "5eaca2551cf18403500004e0"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-16 11:44:00"
+},{
+  "_id": {
+    "$oid": "5eaca2761cf18403500004e1"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-15 08:27:00"
+},{
+  "_id": {
+    "$oid": "5eaca2bd1cf18403500004e2"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-14 18:58:00"
+},{
+  "_id": {
+    "$oid": "5eaca2dc1cf18403500004e3"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-13 07:37:00"
+},{
+  "_id": {
+    "$oid": "5eaca2f41cf18403500004e4"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-12 08:31:00"
+},{
+  "_id": {
+    "$oid": "5eaca31e1cf18403500004e5"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-11 08:01:00"
+},{
+  "_id": {
+    "$oid": "5eaca3371cf18403500004e6"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-10 08:34:00"
+},{
+  "_id": {
+    "$oid": "5eaca3521cf18403500004e7"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-09 08:52:00"
+},{
+  "_id": {
+    "$oid": "5eaca3711cf18403500004e8"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-06 12:38:00"
+},{
+  "_id": {
+    "$oid": "5eaca38e1cf18403500004e9"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-05 09:03:00"
+},{
+  "_id": {
+    "$oid": "5eaca3ad1cf18403500004ea"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-04 07:02:00"
+},{
+  "_id": {
+    "$oid": "5eaca3cf1cf18403500004eb"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-03 07:35:00"
+},{
+  "_id": {
+    "$oid": "5eaca3ee1cf18403500004ec"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-02 09:48:00"
+},{
+  "_id": {
+    "$oid": "5eaca40d1cf18403500004ed"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-01 09:13:00"
+},{
+  "_id": {
+    "$oid": "5ead4a251cf1842f00004782"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-29 06:09:00"
+},{
+  "_id": {
+    "$oid": "5ead4a3a1cf1842f00004783"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-28 06:51:00"
+},{
+  "_id": {
+    "$oid": "5ead4a591cf1842f00004784"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-27 09:13:00"
+},{
+  "_id": {
+    "$oid": "5ead4a781cf1842f00004785"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-26 09:39:00"
+},{
+  "_id": {
+    "$oid": "5ead4a9a1cf1842f00004786"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-25 07:47:00"
+},{
+  "_id": {
+    "$oid": "5ead4b591cf1842f00004787"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-24 08:50:00"
+},{
+  "_id": {
+    "$oid": "5ead4b711cf1842f00004788"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-23 09:39:00"
+},{
+  "_id": {
+    "$oid": "5ead4b8a1cf1842f00004789"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-22 08:35:00"
+},{
+  "_id": {
+    "$oid": "5ead4ba11cf1842f0000478a"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-21 08:30:00"
+},{
+  "_id": {
+    "$oid": "5ead4bb41cf1842f0000478b"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-20 07:33:00"
+},{
+  "_id": {
+    "$oid": "5ead4bc61cf1842f0000478c"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-19 08:23:00"
+},{
+  "_id": {
+    "$oid": "5ead4bdb1cf1842f0000478d"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-18 07:10:00"
+},{
+  "_id": {
+    "$oid": "5ead4bf11cf1842f0000478e"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-17 11:33:00"
+},{
+  "_id": {
+    "$oid": "5ead4c081cf1842f0000478f"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-15 07:56:00"
+},{
+  "_id": {
+    "$oid": "5ead4c191cf1842f00004790"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-14 08:42:00"
+},{
+  "_id": {
+    "$oid": "5ead4c2d1cf1842f00004791"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-13 08:24:00"
+},{
+  "_id": {
+    "$oid": "5ead4c411cf1842f00004792"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-03-11 08:55:00"
+},{
+  "_id": {
+    "$oid": "5ead4c6c1cf1842f00004793"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-08 11:21:00"
+},{
+  "_id": {
+    "$oid": "5ead4c801cf1842f00004794"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-07 06:48:00"
+},{
+  "_id": {
+    "$oid": "5ead4ca31cf1842f00004795"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-06 07:09:00"
+},{
+  "_id": {
+    "$oid": "5ead4cb51cf1842f00004796"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-05 06:43:00"
+},{
+  "_id": {
+    "$oid": "5ead4ccb1cf1842f00004797"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-02-04 08:21:00"
+},{
+  "_id": {
+    "$oid": "5ead4d351cf1842f00004798"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-01-30 08:00:00"
+},{
+  "_id": {
+    "$oid": "5ead4d4f1cf1842f00004799"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-01-29 08:00:00"
+},{
+  "_id": {
+    "$oid": "5ead4d731cf1842f0000479a"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-01-28 10:00:00"
+},{
+  "_id": {
+    "$oid": "5ead4d961cf1842f0000479b"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-01-27 08:00:00"
+},{
+  "_id": {
+    "$oid": "5ead4f5e1cf1842f0000479c"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-05-02 09:02:00"
+},{
+  "_id": {
+    "$oid": "5eb018dd1cf1842ccc006e62"
+  },
+  "badanie": "Cukier we krwi",
+  "data": "2020-05-04 07:30:00"
+}]

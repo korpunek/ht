@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "5ea9d1caf0b85b23f8746e75"
+  },
+  "lkey": "menu_profile",
+  "en": "Profile",
+  "pl": "Profil"
+},{
+  "_id": {
+    "$oid": "5eaae2041bca3cd0dc33faba"
+  },
+  "lkey": "msg_operation_ok",
+  "en": "The operation was successful",
+  "pl": "Operacja powiodła się"
+},{
+  "_id": {
+    "$oid": "5eaae2881bca3cd0dc33fabb"
+  },
+  "lkey": "menu_registration",
+  "en": "Registration",
+  "pl": "Wpis"
+},{
+  "_id": {
+    "$oid": "5eaae32d1bca3cd0dc33fabc"
+  },
+  "lkey": "menu_list",
+  "en": "List",
+  "pl": "Lista"
+},{
+  "_id": {
+    "$oid": "5eaae3821bca3cd0dc33fabd"
+  },
+  "lkey": "menu_results",
+  "en": "Results",
+  "pl": "Wyniki"
+},{
+  "_id": {
+    "$oid": "5eb01d1ebedbde6d8ab193ca"
+  },
+  "lkey": "txt_status",
+  "en": "Status",
+  "pl": "Status"
+},{
+  "_id": {
+    "$oid": "5eb01d7abedbde6d8ab193cb"
+  },
+  "lkey": "txt_rank",
+  "en": "Rank",
+  "pl": "Stopień"
+},{
+  "_id": {
+    "$oid": "5eb01db6bedbde6d8ab193cc"
+  },
+  "lkey": "txt_photo",
+  "en": "Photo",
+  "pl": "Fotografia"
+},{
+  "_id": {
+    "$oid": "5eb01de4bedbde6d8ab193cd"
+  },
+  "lkey": "txt_patient",
+  "en": "Patien",
+  "pl": "Pacjent"
+},{
+  "_id": {
+    "$oid": "5eb01e10bedbde6d8ab193ce"
+  },
+  "lkey": "txt_nickname",
+  "en": "Nick name",
+  "pl": "Przydomek"
+},{
+  "_id": {
+    "$oid": "5eb01e42bedbde6d8ab193cf"
+  },
+  "lkey": "txt_messages",
+  "en": "Messages",
+  "pl": "Komunikaty"
+},{
+  "_id": {
+    "$oid": "5eb01e74bedbde6d8ab193d0"
+  },
+  "lkey": "txt_lastname",
+  "en": "Last name",
+  "pl": "Nazwisko"
+},{
+  "_id": {
+    "$oid": "5eb01e99bedbde6d8ab193d1"
+  },
+  "lkey": "txt_firstname",
+  "en": "First name",
+  "pl": "Imię"
+},{
+  "_id": {
+    "$oid": "5eb01ebfbedbde6d8ab193d2"
+  },
+  "lkey": "txt_id_number",
+  "en": "ID number",
+  "pl": "Nr legitymacji"
+},{
+  "_id": {
+    "$oid": "5eb01eedbedbde6d8ab193d3"
+  },
+  "lkey": "txt_birth_date",
+  "en": "Date of birth",
+  "pl": "Data urodzenia"
+},{
+  "_id": {
+    "$oid": "5eb01f2bbedbde6d8ab193d4"
+  },
+  "lkey": "txt_citizenship",
+  "en": "Citizenship",
+  "pl": "Obywatelstwo"
+},{
+  "_id": {
+    "$oid": "5eb19e213fde0627c0817d12"
+  },
+  "lkey": "txt_plan",
+  "en": "Plan",
+  "pl": "Plan"
+},{
+  "_id": {
+    "$oid": "5eb19e453fde0627c0817d13"
+  },
+  "lkey": "txt_adress",
+  "en": "Adress",
+  "pl": "Adres"
+},{
+  "_id": {
+    "$oid": "5eb19e7a3fde0627c0817d14"
+  },
+  "lkey": "txt_email",
+  "en": "Email",
+  "pl": "Email"
+},{
+  "_id": {
+    "$oid": "5eb19ebc3fde0627c0817d15"
+  },
+  "lkey": "txt_phone",
+  "en": "Phone",
+  "pl": "Telefon"
+},{
+  "_id": {
+    "$oid": "5eb1bd513fde0627c0817d16"
+  },
+  "lkey": "txt_doctor",
+  "en": "Doctor",
+  "pl": "Lekarz"
+},{
+  "_id": {
+    "$oid": "5eb1bd743fde0627c0817d17"
+  },
+  "lkey": "txt_doctoremail",
+  "en": "Doctor email",
+  "pl": "Email lekarza"
+}]
